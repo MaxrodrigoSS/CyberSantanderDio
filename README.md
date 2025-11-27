@@ -1,6 +1,8 @@
 # CyberSantanderDio
 
-Curso: Santander - Cibersegurança 2025
-Plataforma: DIO.me
+--Curso: Santander - Cibersegurança 2025
+--Plataforma: DIO.me
 
-Realizei a separação dos desafios pedidos durante o curso em pastas. Para com isso possuir uma melhor visualização e organização do repositório.
+--Realizei a separação dos desafios de projetos pedidos durante o curso em pastas. Para com isso possuir uma melhor visualização e organização do repositório.
+
+##1.Primeiro Desajo de Projeto - Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux
