@@ -5,7 +5,11 @@
 
 Realizei a separação dos desafios de projetos pedidos durante o curso em pastas. Para com isso possuir uma melhor visualização e organização do repositório.
 
-Utilizando : Oracle Virtual Box; Kali Linux; Medusa; Metasploitable
+### Aplicativos/Ferramentas Utilizando: 
+1. Oracle Virtual Box
+2. Kali Linux
+3. Medusa
+4. Metasploitable
 
 ## 1.Desajo de Projeto - Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux
 - Instrutor(a): Isadora Ferrão 
