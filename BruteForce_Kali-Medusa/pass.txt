@@ -1,5 +1,11 @@
 123456789
 123456
+111111
+000000
 password
 qwerty
+qwertyuiop
 msfadmin
+iloveyou
+abc123
+god123
