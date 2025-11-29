@@ -23,7 +23,7 @@ Realizamos teste de Brute no FTP.
 Realizamos teste de Brute no DVWA(Damn Vulnerable Web Application).
 
 ### Medidas de Prevenção
-- Utilizar senhas complexas 
+- Utilizar senhas complexas com numeros, caracters especiais, caracters maiúsculas e minúsculos.
 - Ativar o MFA(Multi-Factor Authentication/Autenticação Multifator)
 - Em aplicações/servidores definir bloqueio de excesso de tentativas.
 
@@ -41,7 +41,7 @@ Com isso podemos identificar que um antivirus é excencial para computadores, po
 
 ### Medidas de Prevenção
 - Antivirus(Sempre manter Atualizado)
-- Não baixar arquivos ou qualquer coisa que se sabem o autor ou de fonte confiavel
+- Não baixar arquivos ou qualquer coisa que se saiba o autor ou se é de fonte confiavel
 - 
 
 
