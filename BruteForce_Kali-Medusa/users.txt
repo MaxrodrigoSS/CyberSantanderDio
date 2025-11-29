@@ -1,4 +1,9 @@
 user
+superuser
 msfadmin
 admin
+sysadmin
 root
+guest
+test
+demo
