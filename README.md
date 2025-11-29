@@ -22,7 +22,7 @@ Neste desafio, foi proposto pela instrutora que façamos primeiramente um Brute 
 Realizamos teste de Brute no FTP.
 Realizamos teste de Brute no DVWA(Damn Vulnerable Web Application).
 
-### Medidas de Prevenção
+#### Medidas de Prevenção
 - Utilizar senhas complexas com numeros, caracters especiais, caracters maiúsculas e minúsculos.
 - Ativar o MFA(Multi-Factor Authentication/Autenticação Multifator)
 - Em aplicações/servidores definir bloqueio de excesso de tentativas.
@@ -39,7 +39,7 @@ Durente os testes de execução do ransomware na minha maquina, o antivirus iden
 
 Com isso podemos identificar que um antivirus é excencial para computadores, pois com ele ficamos mais seguros. As empresas responsaveis pelos antivirus trabalham identificando e catalogando os tipos de virus para o antivirus ter uma melhor eficacia.
 
-### Medidas de Prevenção
+#### Medidas de Prevenção
 - Antivirus(Sempre manter Atualizado)
 - Não baixar arquivos ou qualquer coisa que se saiba o autor ou se é de fonte confiavel
 - 
